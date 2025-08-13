@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @DevPahadi
-- 👀 I’m interested in Offensive Security
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on new ideas
-- 📫 How to reach me secure.rajat@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a Hacker !
+![Hacker Matrix](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-<!---
-DevPahadi/DevPahadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Dev+Pahadi;Offensive+Security+Enthusiast+%F0%9F%94%AB;Breaking+Things+to+Make+Them+Safer+%F0%9F%92%A1;Always+Learning+Docker+%26+New+Tech)](https://git.io/typing-svg)
+
+```ansi
+[0;32m
+   ██████╗ ███████╗██╗   ██╗    ██████╗  █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗
+  ██╔═══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██║
+  ██║   ██║███████╗██║   ██║    ██████╔╝███████║█████╔╝ ███████║██████╔╝██║
+  ██║   ██║╚════██║██║   ██║    ██╔═══╝ ██╔══██║██╔═██╗ ██╔══██║██╔═══╝ ██║
+  ╚██████╔╝███████║╚██████╔╝    ██║     ██║  ██║██║  ██╗██║  ██║██║     ██║
+   ╚═════╝ ╚══════╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+[0m
